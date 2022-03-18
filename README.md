@@ -1,7 +1,7 @@
 1.  Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah eror ketika terjadi kesalahan penulisan tag ? 
     Jawab : 
-       => HTML tidak pernah eror, hanya saja tampilan di website nya berantakan/tidak berubah apabila kita ada kesalahan dalam memberi tag HTML.
-2.  Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+       <p> => HTML tidak pernah eror, hanya saja tampilan di website nya berantakan/tidak berubah apabila kita ada kesalahan dalam memberi tag HTML.
+2.  Apa perbedaan dari tag dengan tag <br> berikan penjelasannya!
     Jawab : 
        =>	Tag <p> ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak. Tag ini merupakan tag yang                     berpasangan, dimulai dengan tag pembuka <p> dan diakhiri dengan tag penutup </p>.
        =>	Tag <br/> dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru. Tag ini adalah tag tunggal tanpa diawali             tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri.
